@@ -38,7 +38,7 @@ ms.locfileid: "40406758"
   
 ここで示す手順を実行しても、 [!INCLUDE[ssNoVersion](../../includes/ssnoversion-md.md)]のインスタンスの名前を変更することはできません。 変更できるのは、インスタンス名のうち、コンピューター名に対応する部分のみです。 たとえば、Instance1 という [!INCLUDE[ssNoVersion](../../includes/ssnoversion-md.md)] のインスタンスをホストする MB1 というコンピューターを、MB2 のような別の名前に変更できます。 ただし、名前のインスタンスの部分 (Instance1) は変更されません。 この例では、 \\\\*ComputerName*\\*InstanceName* が、 \\\MB1\Instance1 から \\\MB2\Instance1 に変更されます。  
   
- **アンインストールの準備**  
+ **変更の準備**  
   
  名前変更のプロセスを開始する前に、次の情報を確認します。  
   
